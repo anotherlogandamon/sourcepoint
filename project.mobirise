@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x118.png",
+    "favicon": href="https://www.favicon.cc/logo3d/702445.png">
     "noImageResize": "",
     "versionFirst": "4.7.7",
     "uniqCompNum": 12,
